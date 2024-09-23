@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://comonca.github.io/sitemap.html.gz
+Sitemap: https://comonca.github.io/app/sitemap.html.gz
+Sitemap: https://comonca.github.io/assets/sitemap.html.gz
+Sitemap: https://comonca.github.io/css/sitemap.html.gz
+Sitemap: https://comonca.github.io/data/sitemap.html.gz
+Sitemap: https://comonca.github.io/includes/sitemap.html.gz
+Sitemap: https://comonca.github.io/item/sitemap.html.gz
+Sitemap: https://comonca.github.io/src/sitemap.html.gz
